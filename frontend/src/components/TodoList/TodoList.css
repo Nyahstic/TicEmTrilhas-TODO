@@ -1,0 +1,7 @@
+.todo-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  flex-grow: 1; /* Make the list grow */
+  overflow-y: scroll; /* Add scroll on overflow */
+}

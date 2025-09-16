@@ -4,7 +4,7 @@ import './Footer.css';
 function Footer() {
   return (
     <footer className="app-footer">
-      <p>Feito por: minty</p>
+      <p>Feito por: Alex Marola, Gabriel Gonçalves, Diego Gabriel e Octávio augusto</p>
     </footer>
   );
 }
